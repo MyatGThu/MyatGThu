@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MyatGThu
+- 👋 Hi, I’m Myat Thu
 - 👀 I’m interested in money
-- 🌱 I’m currently learning AI image / video generation and Networking...
-- 📫 How to reach me -> :P
+- 🌱 I don't know what the fuck I'm doing. Just using AI to hopefully launch sell an app that fixes the pain points of existing apps ? 
+- 📫 How to reach me -> myatgeorgethu@gmail.com
 
 <!---
 MyatGThu/MyatGThu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
