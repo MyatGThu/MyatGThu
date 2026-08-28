@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Myat Thu
 - 👀 I’m interested in money
-- 🌱 I don't know what the fuck I'm doing. Just using AI to hopefully launch sell an app that fixes the pain points of existing apps ? 
+- 🌱 I don't know what I'm doing.
 - 📫 How to reach me -> myatgeorgethu@gmail.com
 
 <!---
